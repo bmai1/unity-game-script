@@ -1,0 +1,21 @@
+Implemented:
+-Horizontal movement
+-jump, jump sfx
+-camera controls (clamp min/max)
+-menu bg music "Watashiwa Araragisanto Aetandesukara"
+-Rough inital scene foreground/background
+-Map barriers
+-fix slope BoxCollider at bottom
+-Hurt/Death states
+
+To-do:
+-dialogue options with ink!
+-Crouch
+-Enemies, traps && pve
+-Enter treehouse
+-npcs
+-More levels
+-More music
+-Start/End Screen
+
+-Original sprites???
