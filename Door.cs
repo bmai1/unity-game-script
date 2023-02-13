@@ -14,7 +14,6 @@ public class Door : MonoBehaviour
         doorOpen = GetComponent<AudioSource>();
     }
 
-   
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.name == "Player" && !levelCompleted) {
